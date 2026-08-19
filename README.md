@@ -70,21 +70,19 @@
 
 ### 🚀 Featured Projects
 
-#### 🏆 [SportEcho](#) — React.js · Node.js · Express.js · MongoDB
+#### 🏆 [SportEcho](sportecho.netlify.app) — React.js · Node.js · Express.js · MongoDB
 *Jun 2026 – Jul 2026*
 A sports tournament platform supporting tournament discovery, participant registration, and team management.
 - Designed **7+ MongoDB schemas** modeling users, organizers, tournaments, registrations, teams, matches, and points tables
 - Implemented **3-role RBAC** (Admin, Organizer, Participant) using JWT & bcrypt
 - Built **15+ REST APIs** and **5+ search filters** for filtering by sport, city, date, status, and availability
 
-#### 📋 [ComplaintCare](#) — React.js · Node.js · Express.js · MongoDB
+#### 📋 [ComplaintCare](complaintcare.netlify.app) — React.js · Node.js · Express.js · MongoDB
 *May 2025 – Jun 2025*
 A centralized complaint management platform for submission, agent assignment, status tracking, and resolution.
 - Engineered **10+ REST APIs** for complaint operations and user-agent communication
 - Secured the app with **JWT + bcrypt** across 3 roles: User, Agent, Admin
 - Structured complaint workflows in MongoDB with Mongoose for assignment and status tracking
-
-> 💡 *Tip: Replace the `#` links above with your actual repository URLs.*
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manam Hari Krishna</h1>
-<h3 align="center">Computer Science Undergraduate | AI & Data Science | Full-Stack (MERN) Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/manam-hari-krishna" target="_blank">

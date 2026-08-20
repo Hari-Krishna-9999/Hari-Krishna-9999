@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech in **CSE (AI & Data Science)** @ Vishnu Institute of Technology, Bhimavaram (2023 – 2027)
+- 🎓 B.Tech in **CSE (AI & DS)** @ Vishnu Institute of Technology, Bhimavaram (2023 – 2027)
 - 📊 Current CGPA: **9.47**
 - 💡 Strong foundations in **Java, Data Structures & Algorithms, and OOP**
 - 🌐 I build end-to-end web applications and REST APIs using the **MERN stack**

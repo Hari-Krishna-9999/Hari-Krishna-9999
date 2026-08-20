@@ -88,7 +88,6 @@ A centralized complaint management platform for submission, agent assignment, st
 
 🔗 [Live Demo](https://complaintcare.netlify.app) &nbsp;|&nbsp; 💻 [Source Code](#)
 
-> 💡 *Tip: Replace the `#` Source Code links above with your actual GitHub repository URLs.*
 
 ---
 
